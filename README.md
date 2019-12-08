@@ -27,3 +27,6 @@ Next, in terms of android emulators, if a user does not have a intel chip, like 
 Lastly, both applications were able to produce an application that works on my device and printed hello world. 
 
 To conclude, I believe for a user that is new to application development and coding, working with android studio first may be more helpful than starting with react native. React native, however, may be a lot simpler that android studio for those who are already familiar with java. 
+
+### Attempt at iOS Application Development
+This was not possible as it requires the ownership of an Apple product, and obtaining a copy of the OS for a virtual environment did not work as well. React Native may be able to help with this but an application developer would not be able to test it without their own apple device. 
