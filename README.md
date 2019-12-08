@@ -2,7 +2,7 @@
 Android and React Native Comparison
 
 ## Differences between React Native and Android Studio:
-# React Native
+### React Native
  - Works with both iOS and Android App development
  - Does not come with a built-in IDE
  - Works primarily through the terminal. 
@@ -10,7 +10,7 @@ Android and React Native Comparison
  - Works primarily with Javascript.
  - Does not work with every library.
 
-# Android Studio
+### Android Studio
  - Offers an integrated IDE that provides a GUI for the user to work with.
  - Much simpler for those who are new to application development and coding. 
  - Able to use Kotlin, which is similar to Java. 
