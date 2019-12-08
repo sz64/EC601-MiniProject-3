@@ -30,3 +30,6 @@ To conclude, I believe for a user that is new to application development and cod
 
 ### Attempt at iOS Application Development
 This was not possible as it requires the ownership of an Apple product, and obtaining a copy of the OS for a virtual environment did not work as well. React Native may be able to help with this but an application developer would not be able to test it without their own apple device. 
+
+### Screenshot of the "Hello World" Test Application from Android Studio
+![Image of Test Application](https://github.com/sz64/EC601-MiniProject-3/blob/master/Screenshot_8.png)
